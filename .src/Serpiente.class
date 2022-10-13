@@ -129,6 +129,7 @@ Public Function estasMuerta(iAncho As Integer, iAlto As Integer) As Boolean
   
 End
 
+'Esta funcion sirve para cambiar la direccion de la serpiente en funcion de la tecla que reciba el programa a teclado.
 Public Sub cambiaDir(letra As String)
   
   
