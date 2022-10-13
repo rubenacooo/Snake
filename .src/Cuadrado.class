@@ -100,6 +100,7 @@ Public Function getPosY() As Short
 End
 
 
+'Esta funcion determina si la serpiente ha colisionado consigo misma.
 Public Function colisiona(otroCuadrado As Cuadrado) As Boolean
   
   Dim bResultado As Boolean
