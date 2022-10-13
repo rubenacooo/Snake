@@ -5,6 +5,7 @@ Private viborita As Serpiente
 Private iPasos As Integer
 
 
+'En esta subrutina se ejecuta un bloque de codigo al pulsar el boton "Jugar"
 Public Sub Jugar_Click()
 
   
